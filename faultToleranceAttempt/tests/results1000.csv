@@ -1,0 +1,8 @@
+goos: darwin
+goarch: arm64
+pkg: uk.ac.bris.cs/gameoflife/tests
+cpu: Apple M2
+,results1000.out,
+,sec/op,CI
+StudentVersion/512x512x1000-1-8,21.7360624165,2%
+geomean,21.7360624165,
